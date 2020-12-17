@@ -1,0 +1,13 @@
+OBJECT_BASE 3854660.btg
+OBJECT FMEE.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 55.505309 -20.884090 10.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 55.513196 -20.889705 19.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 55.505912 -20.885686 14.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 55.533540 -20.892323 9.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 55.525962 -20.894896 20.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 55.514634 -20.886568 11.9 0.00
+OBJECT_SIGN {@R}{^l}12|{^l}14|{^l}30|32{^r}{safety} 55.521953 -20.893271 20.6 326.50 3
+OBJECT_SIGN {@R}{^l}12|{^l}14|{^lu}30|32{^r}{safety} 55.515092 -20.890078 19.1 289.69 3
+OBJECT_SIGN {@R}{^l}12|{^lu}14|30{^r}|32{^rd}{safety} 55.511359 -20.888539 18.1 17.90 3
+OBJECT_SIGN {@R}{^l}12|{^lu}14|30{^r}|32{^rd}{safety} 55.509833 -20.887795 17.3 287.99 3
+OBJECT_SIGN {@R}{^lu}12|{^u}14|30{^r}{safety} 55.514712 -20.889489 18.1 65.18 3
